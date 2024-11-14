@@ -1,0 +1,24 @@
+# Nome do Projeto
+
+## O que é o projeto
+
+[Descrição breve do projeto: objetivo, funcionalidades principais, e o que o usuário pode fazer com ele]
+
+## Funcionalidades principais
+
+- Tirar fotos com a câmera
+- Notificação personalizada para o usuário após cada foto capturada
+- [Outras funcionalidades do projeto]
+
+## Bibliotecas e Ferramentas Usadas
+
+- **Expo-camera**: para acessar a câmera do dispositivo e capturar fotos.
+- **expo-notifications**: para exibir notificações após capturar uma foto.
+- [Outras bibliotecas e ferramentas relevantes]
+
+## Como Instalar e Executar o Projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone <URL_DO_REPOSITÓRIO>
+   cd <NOME_DO_PROJETO>

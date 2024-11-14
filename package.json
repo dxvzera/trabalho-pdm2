@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "expo-cli": "^6.3.10",
+    "expo-camera": "~13.2.1",
+    "expo-notifications": "~0.18.1"
+  }
+}
